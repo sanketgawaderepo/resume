@@ -21,7 +21,7 @@ resume_contact_telephone:       "323-434-5545"
 resume_contact_address:         "34835 Wabash River Pl, Fremont"
 
 resume_header_contact_info:     "34835 Wabash River Pl, Fremont • 323-434-5545 • aniketjgawade@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Passionate software engineer who is always open to learn new things. </p>"
 

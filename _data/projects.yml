@@ -11,6 +11,7 @@
     <li>Developed a new feature where you can dynamically assign VIP to pod or an ingress or pod within its namespace from a selected public network pool.</li>
     <li>Actively participated in solving issues with scalability and diverse cluster deployment(public, private & nested).</li>
     <li>Designed and demoed Istio and Contrail integration to provide service mesh(L3-L7). Now working on GKE integration with public cloud</li>
+    <li>Developed framework for an automated deployment, setup and testing differnt flavour of cluster using vagrant and ansible.
     <li>Author of 2 patents and member of CNCF networking committee.</li>
     <li>Leaded Kubernetes study group within Juniper to make aware of new cloud technology and solution.</li></ul>
 
@@ -18,10 +19,21 @@
   #role: Developer
   #duration: 2014 &mdash; Present
   url: "https://github.com/Juniper/contrail-controller/tree/master/src/container/mesos-manager"
-  description: <ul class="resume-item-list"><li>Architected mesos manager which will handle operations of a container add and delete. Mesos manager is micro service docker within its architecture with all features builtin such as local DB, event based, pythonic, logger, config and introspect(shows local state).</li></ul>
+  description: >
+    <ul class="resume-item-list">
+    <li>Architected mesos manager which will handle operations of a container add and delete. Mesos manager is micro service docker within its architecture with all features builtin such as local DB, event based, pythonic, logger, config and introspect(shows local state).</li></ul>
+
+- project: Redhat's Openshift
+  #role: Developer
+  #duration: 2014 &mdash; Present
+  url: "https://github.com/Juniper/openshift-ansible/tree/release-3.9-contrail/"
+  description: >
+    <ul class="resume-item-list">
+    <li>Developed a micro service solution to deploy contrial on openshift with diverse cluster flavours.</li></ul>
   
 - project: Docker Swarm
   #role: Developer
   #duration: 2014 &mdash; Present
   url: "https://github.com/Juniper/contrail-cnm-plugin"
-  description: <ul class="resume-item-list"><li>Designed and archtected complete network solution for Docker Swarm.</li></ul>
+  description: >
+    <ul class="resume-item-list"><li>Designed and architected complete network solution for Docker Swarm.</li></ul>

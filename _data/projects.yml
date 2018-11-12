@@ -5,7 +5,14 @@
   role: Developer
   duration: 2014 &mdash; Present
   url: "https://github.com/Juniper/contrail-controller/tree/master/src/container/kube-manager"
-  description: <ul class="resume-item-list"><li>Designed and implemented a new way of service chaining which allows communication between pods and service across different namespace via service(eg. Firewall).</li><li>Developed a new feature where you can dynamically assign VIP to pod or an ingress or pod within its namespace from a selected public network pool.</li><li>Actively participated in solving issues with scalability and diverse cluster deployment(public, private & nested).</li><li>Designed and demoed Istio and Contrail integration to provide service mesh(L3-L7). Now working on GKE integration with public cloud</li><li>Author of 2 patents and member of CNCF networking committee.</li><li>Leaded Kubernetes study group within Juniper to make aware of new cloud technology and solution.</li></ul>
+  description: >
+  <ul class="resume-item-list">
+  <li>Designed and implemented a new way of service chaining which allows communication between pods and service across different namespace via service(eg. Firewall).</li>
+  <li>Developed a new feature where you can dynamically assign VIP to pod or an ingress or pod within its namespace from a selected public network pool.</li>
+  <li>Actively participated in solving issues with scalability and diverse cluster deployment(public, private & nested).</li>
+  <li>Designed and demoed Istio and Contrail integration to provide service mesh(L3-L7). Now working on GKE integration with public cloud</li>
+  <li>Author of 2 patents and member of CNCF networking committee.</li>
+  <li>Leaded Kubernetes study group within Juniper to make aware of new cloud technology and solution.</li></ul>
 
 - project: Mesos-manger & CNI
   role: Developer

@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Aniket Gawade"
 resume_title:                   "Software Engineer"
 
@@ -23,7 +23,7 @@ resume_contact_address:         "34835 Wabash River Pl, Fremont"
 resume_header_contact_info:     "34835 Wabash River Pl, Fremont • 323-434-5545 • aniketjgawade@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Passionate software engineer who is always open to learn new things. </p>"
+resume_header_intro: "<p>Software engineer with 5+ years of experience in Kubernetes, Mesos(DC/OS), cloud computing, containerization, SDN, routing, distributed system, load balancer, optimization, and automation. A fanatical devotee of open source, Linux and cloud-native.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -36,10 +36,10 @@ resume_looking_for_work:        "yes"
 resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
-resume_section_skills:          true
+resume_section_skills:          false
 resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
+resume_section_links:           false
+resume_section_associations:    false
 resume_section_interests:       true
 
 # Resume social links

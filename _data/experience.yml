@@ -1,19 +1,18 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
+# Software Engineer
+- company: Juniper Networks
+  position: Software Engineer 4
+  duration: July, 2013 &mdash; Present
+  summary: Currently part of Contrail team (now known as Tungsten Fabric) developing networking solution for various cloud ecosystems such as Kubernetes, Mesos(DC/OS), Openshift and Docker Swarm. Solving various issues of scale, load balancer, VIP, supporting assorted network deployment. Previous to contrail worked on NorthStar (SDWAN solution) and Routing protocol infrastructure team.
+  
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: American Standard Television
+  position: Linux Software Developer
+  duration:   May, 2012  &mdash; May, 2013
+  summary: Responsible for developing Network manager, cross-compiled libraries, toolchain, modifying Linux kernel and configuring boot process for MIPS architecture set-top box. Also provided web service for adobe air GUI and mobile app with SOAP.
+
+# Software Engineer
+- company: Persistent Systems
+  position: Software Engineer
+  duration:  July, 2010 &mdash; July, 2011
+  summary: Developed windows application using DLL Injection and API hooking to monitor work of  BPO  workers, capture their event and upload the event to the server and then perform analytics and generate the desired result.

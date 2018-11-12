@@ -1,16 +1,20 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Kube-manger & CNI
+  role: Developer
+  duration: 2014 &mdash; Present
+  url: "https://github.com/Juniper/contrail-controller/tree/master/src/container/kube-manager"
+  description: <ul class="resume-item-list"><li>Designed and implemented a new way of service chaning which allows communication between pods and service across differnt namespace.</li><li>Developed new feature where you can dynamically assign vip to pod or a ingress or pod within its namespace from a selected public network pool.</li><li>Activily participated in solving issue with scalability and diverse cluster deployment(public, private & nested).</li><li>Designed and demoed Istio and Contrail integration to provide service mesh(L3-L7). Now working on GKE integration with public cloud</li><li>Author of 2 patents and memeber of CNCF networking committe.</li><li>Leaded Kubernetes study group within Juniper to make aware of new cloud technology and solution.</li></ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Mesos-manger & CNI
+  role: Developer
+  duration: 2014 &mdash; Present
+  url: "https://github.com/Juniper/contrail-controller/tree/master/src/container/mesos-manager"
+  description: <ul class="resume-item-list"><li>Architected mesos manager which will handle operations of a container add and delete. Mesos manager is micro service docker within its architecture with all features builtin such as local DB, event based, pythonic, logger, config and intropect(shows local state).</li></ul>
+  
+- project: Docker Swarm
+  role: Developer
+  duration: 2014 &mdash; Present
+  url: "https://github.com/Juniper/contrail-cnm-plugin"
+  description: <ul class="resume-item-list"><li>Designed and archtected complete network solution for Docker Swarm.</li></ul>

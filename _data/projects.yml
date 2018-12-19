@@ -1,7 +1,7 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: Kube-manger & CNI
+- project: Kube-manager & CNI
   #role: Developer
   #duration: 2014 &mdash; Present
   url: "https://github.com/Juniper/contrail-controller/tree/master/src/container/kube-manager"
@@ -15,7 +15,7 @@
     <li>Author of 2 patents and member of CNCF networking committee.</li>
     <li>Leaded Kubernetes study group within Juniper to make aware of new cloud technology and solution.</li></ul>
 
-- project: Mesos-manger & CNI
+- project: Mesos-manager & CNI
   #role: Developer
   #duration: 2014 &mdash; Present
   url: "https://github.com/Juniper/contrail-controller/tree/master/src/container/mesos-manager"

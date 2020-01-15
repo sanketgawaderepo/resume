@@ -1,18 +1,12 @@
 # Jobs
 # Software Engineer
-- company: Juniper Networks
-  position: Software Engineer 4
-  duration: July, 2013 &mdash; Present
-  summary: Currently part of Contrail team (now known as Tungsten Fabric) developing networking solution for various cloud ecosystems such as Kubernetes, Mesos(DC/OS), Openshift and Docker Swarm. Solving various issues of scale, load balancer, VIP, perforamance and assorted network deployment. Previous to contrail worked on NorthStar (SDWAN solution) and Routing protocol infrastructure team.
+- company: Logicon Technosolutions
+  position: Software Engineer
+  duration: Oct, 2018 &mdash; Present
+  summary: Worked as a web developer developing ERP/HR system, vendor requested analytical portal and reporting tool.
   
 # Communications Coordinator
-- company: American Standard Television
-  position: Linux Software Developer
-  duration:   May, 2012  &mdash; May, 2013
-  summary: Responsible for developing Network manager, cross-compiled libraries, toolchain, modifying Linux kernel and configuring boot process for MIPS architecture set-top box. Also provided web service for adobe air GUI and mobile app with SOAP.
-
-# Software Engineer
-- company: Persistent Systems
-  position: Software Engineer
-  duration:  July, 2010 &mdash; July, 2011
-  summary: Developed windows application using DLL Injection and API hooking to monitor work of  BPO  workers, capture their event and upload the event to the server and then perform analytics and generate the desired result.
+- company: Sattva Rise
+  position: Intern
+  duration:   Jan, 2015  &mdash; June, 2015
+  summary: Primarily worked on Unity, making 3D models and their animation for Real Estate and Jewelry AR/VR.

@@ -1,5 +1,5 @@
 # Site settings
-title: "Aniket's Resume"
+title: "Sanket's Resume"
 description: "Resume hosting via GitHub Pages site."
 
 # Build settings
@@ -10,20 +10,20 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "Aniket Gawade"
+resume_name:                    "Sanket Gawade"
 resume_title:                   "Software Engineer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "aniketjgawade@gmail.com"
+resume_contact_email:           "sanketgawade2010@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "323-434-5545"
-resume_contact_address:         "San Francisco Bay Area"
+resume_contact_telephone:       "+91-8806164200"
+resume_contact_address:         "Chinchwad, Pune"
 
-resume_header_contact_info:     "San Francisco Bay Area • 323-434-5545 • aniketjgawade@gmail.com"
+resume_header_contact_info:     "Chinchwad, Pune • 8806164200 • sanketgawade2010@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Software engineer with 5+ years of experience in Kubernetes, Mesos(DC/OS), cloud computing, containerization, SDN, routing, distributed system, load balancer, optimization, and automation. A fanatical devotee of open source, Linux and cloud-native.</p>"
+resume_header_intro: "<p>Software engineer with 1 years of experience in web development.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,13 +45,13 @@ resume_section_interests:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/aniketgawade"
+  #resume_github_url:            "https://github.com/sanketgawade"
   #resume_twitter_url:           "insert your Instagram URL here"
   #resume_dribbble_url:          "insert your Instagram URL here"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/aniketgawade"
+  resume_linkedin_url:          "https://www.linkedin.com/in/sanket-gawade"
   # resume_instagram_url:         "insert your Instagram URL here"
-  #resume_website_url:           "http://aniketgawade.github.io"
+  #resume_website_url:           "http://sanketgawade.github.io"
   #resume_medium_url:            "insert your Instagram URL here"
 resume_print_social_links:      true
 

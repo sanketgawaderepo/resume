@@ -1,12 +1,15 @@
 # Skills
 # Organizational leadership
-- skill: Languages
-  description: C, C++, Python, GO
+- skill: Languages/Framework
+  description: Javascript(fluent), Node.js, C, Java
 
 # Communications strategy
-- skill: Cloud Technologys
-  description: Kubernetes, Openshift, Mesos(DCOS), Docker Swarm
+- skill: Web technologies
+  description: HTML, CSS, Bootstrap
 
 # Digital content development and creation
+- skill: Database
+  description: PostgreSQL, MySQL
+  
 - skill: Tools
-  description: Ansible, Vagrant
+  description: Visual Studio Code, Unity3D

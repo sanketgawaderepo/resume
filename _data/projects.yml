@@ -7,7 +7,7 @@
   url: "impetus.logicontech.com"
   description: >
     <ul class="resume-item-list">
-    <li>Technology:Node.js, Express framework, CSS, JavaScript, AJAX, PostgreSQL</li>
+    <li><b>Technologies</b>: Node.js, Express framework, CSS, JavaScript, AJAX, PostgreSQL</li>
     <li>Design and built an ERP system. Some of the newly added features are as follows</li>
     <li>Expense management for on-site reimbursement.</li>
     <li>HR management system for interview scheduling, job openings, helpdesk (ticketing system), payroll.</li>
@@ -19,7 +19,7 @@
   #url: "https://github.com/"
   description: >
     <ul class="resume-item-list">
-    <li>Technology:Node.js, Express framework, CSS, JavaScript, AJAX, PostgreSQL</li>
+    <li><b>Technologies</b>: Node.js, Express framework, CSS, JavaScript, AJAX, PostgreSQL</li>
     <li>Design and implemented homegrown chatbot for quickly getting information regarding the sales order and expense register through an interacting chat.</li></ul>
     
 - project: Reporting System   #role: Developer
@@ -27,7 +27,7 @@
   #url: "https://github.com/"
   description: >
     <ul class="resume-item-list">
-    <li>Technology:Node.js, Express framework, CSS, JavaScript, AJAX, MySQL</li>
+    <li><b>Technologies</b>: Node.js, Express framework, CSS, JavaScript, AJAX, MySQL</li>
     <li>Created a portal for various vendors to show data reported by different systems. Generating graphical reports based on analytical queries provided by the user, increasing their productivity and data visualization.</li></ul>
 
 
@@ -38,7 +38,7 @@
   url: "https://www.youtube.com/watch?v=_QXXo8Sb27w"
   description: >
     <ul class="resume-item-list">
-     <li><b>Technology</b>:Unity,Android</li>
+     <li><b>Technology</b>: Unity,Android</li>
     <li>Designed and developed an educational virtual reality Android application that helps people to learn more about the world we live in. In addition, we developed a quiz game to test user’s skills. Also, developed test plans and executed them manually.</li>
     <li>As part of Sattva Rise created AR project for various client showcasing thier product</li></ul>
   

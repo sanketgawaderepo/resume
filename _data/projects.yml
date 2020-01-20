@@ -1,39 +1,31 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: Kube-manager & CNI
+- project: Impetus (nodejs, express framework, CSS, js, AJAX, postgres):
   #role: Developer
   #duration: 2014 &mdash; Present
-  url: "https://github.com/Juniper/contrail-controller/tree/master/src/container/kube-manager"
+  url: "impetus.logicontech.com"
   description: >
     <ul class="resume-item-list">
-    <li>Designed and implemented a new way of service chaining which allows communication between pods and service across different namespace via service(eg. Firewall).</li>
-    <li>Developed a new feature where you can dynamically assign VIP to pod or an ingress or pod within its namespace from a selected public network pool.</li>
-    <li>Actively participated in solving issues with scalability and diverse cluster deployment(public, private & nested).</li>
-    <li>Designed and demoed Istio and Contrail integration to provide service mesh(L3-L7). Now working on GKE integration with public cloud</li>
-    <li>Developed framework for an automated deployment, setup and testing differnt flavour of cluster using vagrant and ansible.
-    <li>Author of 2 patents and member of networking committee.</li>
-    <li>Leaded Kubernetes study group within Juniper to make aware of new cloud technology and solution.</li></ul>
+    <li>Design and built an ERP system. Some of the newly added features are as follows:</li>
+    <li>Expense management for on-site reimbursement.</li>
+    <li>HR management system for interview scheduling, job openings, helpdesk (ticketing system), payroll.</li>
+    <li>Employee dashboard providing more information on his profile,  visualizing weekly timesheet, certification, recent post on a timeline.</li>
+    <li>Using Azure SDK integrated Group Policy Management from Active Directory for authentication and single-sign-on.</li>
 
-- project: Mesos-manager & CNI
+- project: Chat Bot (nodejs, express framework, CSS, js, AJAX, postgres):
   #role: Developer
   #duration: 2014 &mdash; Present
-  url: "https://github.com/Juniper/contrail-controller/tree/master/src/container/mesos-manager"
+  #url: "https://github.com/"
   description: >
     <ul class="resume-item-list">
-    <li>Architected mesos manager which will handle operations of a container add and delete. Mesos manager is micro service docker within its architecture with all features builtin such as local DB, event based, pythonic, logger, config and introspect(shows local state).</li></ul>
+    <li>Design and implemented homegrown chatbot for quickly getting information regarding the sales order and expense register through an interacting chat..</li></ul>
 
-- project: Redhat's Openshift
+- project: Reporting System(nodejs, mysql):
   #role: Developer
   #duration: 2014 &mdash; Present
-  url: "https://github.com/Juniper/openshift-ansible/tree/release-3.9-contrail/"
+  #url: "https://github.com/"
   description: >
     <ul class="resume-item-list">
-    <li>Developed a micro service solution to deploy contrial on openshift with diverse cluster flavours.</li></ul>
+    <li>Created a portal for various vendors to show data reported by different systems. Generating graphical reports based on analytical queries provided by the user, increasing their productivity and data visualization.</li></ul>
   
-- project: Docker Swarm
-  #role: Developer
-  #duration: 2014 &mdash; Present
-  url: "https://github.com/Juniper/contrail-cnm-plugin"
-  description: >
-    <ul class="resume-item-list"><li>Designed and architected complete network solution for Docker Swarm.</li></ul>

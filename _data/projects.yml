@@ -1,7 +1,7 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: Impetus (nodejs, express framework, CSS, js, AJAX, postgres):
+- project: Impetus (nodejs, express framework, CSS, js, AJAX, postgres)
   #role: Developer
   #duration: 2014 &mdash; Present
   url: "impetus.logicontech.com"
@@ -13,7 +13,7 @@
     <li>Employee dashboard providing more information on his profile,  visualizing weekly timesheet, certification, recent post on a timeline.</li>
     <li>Using Azure SDK integrated Group Policy Management from Active Directory for authentication and single-sign-on.</li></ul>
 
-- project: Chat Bot (nodejs, express framework, CSS, js, AJAX, postgres):
+- project: Chat Bot (nodejs, express framework, CSS, js, AJAX, postgres)
   #role: Developer
   #duration: 2014 &mdash; Present
   #url: "https://github.com/"
@@ -21,7 +21,7 @@
     <ul class="resume-item-list">
     <li>Design and implemented homegrown chatbot for quickly getting information regarding the sales order and expense register through an interacting chat..</li></ul>
 
-- project: Virtual Reality (Unity, Android SDK):
+- project: Virtual Reality (Unity, Android SDK)
   #role: Developer
   #duration: 2014 &mdash; Present
   url: "https://www.youtube.com/watch?v=_QXXo8Sb27w"

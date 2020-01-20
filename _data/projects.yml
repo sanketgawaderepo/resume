@@ -1,7 +1,7 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: Impetus 
+- project: Impetus (nodejs, express framework, CSS, js, AJAX, postgres)
   #role: Developer
   #duration: 2014 &mdash; Present
   url: "impetus.logicontech.com"

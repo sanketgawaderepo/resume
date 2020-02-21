@@ -4,7 +4,7 @@
 - project: Impetus 
   #role: Developer
   #duration: 2014 &mdash; Present
-  url: "https://impetus.logicontech.com"
+  url: "http://impetus.logicontech.com"
   description: >
     <ul class="resume-item-list">
     <li><b>Technologies</b>: Node.js, Express framework, CSS, JavaScript, AJAX, PostgreSQL</li>

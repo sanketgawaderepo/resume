@@ -1,11 +1,11 @@
 # Skills
 # Organizational leadership
 - skill: Languages/Framework
-  description: Javascript(fluent), Node.js, C, Java
+  description: Javascript, C, Java
 
 # Communications strategy
 - skill: Web technologies
-  description: HTML, CSS, Bootstrap, jQuery, Ajax
+  description: Node.js, HTML, CSS, Bootstrap, jQuery, Ajax ,JSON
 
 # Digital content development and creation
 - skill: Database
